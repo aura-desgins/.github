@@ -1,12 +1,17 @@
-## Hi there 👋
+![Grey and Brown Watercolor Welcome Banner](https://github.com/user-attachments/assets/85bbd4a9-8297-4ff9-8ae2-a652729d0ca2)
 
-<!--
+<h3 align="center">aura Designs</h3>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <p align="center">
+    The modern and animated UI components for <strong>reactjs</strong> and <strong>react-native</strong> 
+    <br />
+    <a href="https://aurad.vercel.app"><strong>Website »</strong></a>
+<!--  
+    <br />
+    <br />
+    <a href="https://aurad.vercel.app">Website</a>
+    ·
+    <a href="https://github.com/dubinc/dub/issues">Feedback</a>
+    ·
+    <a href="https://aurad.vercel.app/docs/reactjs/components/button">Documentation</a> -->
+  </p>
