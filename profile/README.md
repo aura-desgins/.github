@@ -5,7 +5,7 @@
   <p align="center">
     The modern and animated UI components for <strong>reactjs</strong> and <strong>react-native</strong> 
     <br />
-    <a href="https://aurad.vercel.app"><strong>Website »</strong></a>
+    <a href="https://www.aurad.pro"><strong>Website »</strong></a>
 <!--  
     <br />
     <br />
